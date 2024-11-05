@@ -48,7 +48,7 @@
 	});
 </script>
 
-<div class="prose">
+<div class="prose mx-auto">
 	<h1 class="w-full pt-10 text-center font-serif">Election Needle!</h1>
 	<p class="px-12 text-center text-xl">
 		Will it be next president of the US? Trump or Comrade Kamala?

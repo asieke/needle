@@ -16,7 +16,7 @@
 
 	onMount(() => {
 		console.log(window.innerWidth);
-		size = window.innerWidth * 0.8;
+		size = Math.min(800, window.innerWidth * 0.8);
 	});
 </script>
 
