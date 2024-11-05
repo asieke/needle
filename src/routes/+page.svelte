@@ -51,7 +51,7 @@
 <div class="prose mx-auto">
 	<h1 class="w-full pt-10 text-center font-serif">Election Needle!</h1>
 	<p class="px-12 text-center text-xl">
-		Will it be next president of the US? Trump or Comrade Kamala?
+		Who will be the next president of the USA? Trump or Comrade Kamala?
 	</p>
 </div>
 <Needle {probability} {lastUpdated} />
